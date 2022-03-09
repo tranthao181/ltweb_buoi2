@@ -1,0 +1,26 @@
+#NoiDung { /* Tương tự main */
+	width: 960px;
+}
+
+#DauTrang { /* Tương tự header */
+	width: 960px;
+	height: 192px;
+}
+
+#GiuaTrang { /* Tương tự section */
+	width: 960px;
+}
+
+#BenTrai { /* Tương tự aside */
+	width: 220px;
+}
+
+#BenPhai { /* Tương tự article */
+	width: 730px; /* Lấy 960-220=740px; mà trừ thêm 10px do chừa khoảng trắng giữa bên trái và bên phải */
+}
+
+#CuoiTrang { /* Tương tự footer */
+	width: 960px;
+	height: 50px;
+}
+
